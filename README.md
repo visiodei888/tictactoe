@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe Game (TASK 2)
 
 This project implements a graphical version of the classic Tic-Tac-Toe game using Python and the Pygame library. It also includes an AI opponent that uses the Minimax algorithm with alpha-beta pruning to play optimally.
 
